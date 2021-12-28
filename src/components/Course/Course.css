@@ -1,0 +1,17 @@
+#course{
+    height:200px;
+    width:200px;
+    border-radius:5px;
+    box-shadow: 10px 10px 20px lightgray;
+    padding:10px;
+    margin:10px;
+    font-size:20px;
+    justify-content:center;
+    align-items:center;
+    display: flex;
+    flex-direction:column;
+    color: chocolate;
+}
+h3{
+    font-weight: 700;
+}
